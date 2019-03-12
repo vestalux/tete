@@ -39,7 +39,7 @@ layout: default
 
       <div class="section-padding">
         <div class="grid-small">
-          {% for author in page.author %}
+          {% for author in site.author %}
             <span class="post__author">Posted by {% if author["name"] == page.author and author["url"] %}<a href="{{ author['url'] }}" title="More By {{ page.author }}">{% endif %}{{ page.author }}{% if author["name"] == page.author and author["url"] %}</a>{% endif %}</span>
             {% if author["name"] == page.author %}
               <p class="post__bio">{{ author["bio"] }}</p>
@@ -48,7 +48,7 @@ layout: default
         </div>
       </div>
     {% endif %}
-
+data
     {% include disqus.html %}
 
   </article>
