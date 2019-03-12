@@ -1,14 +1,14 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: hi@tetehome.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-name: Thomas Vaeth
+name: Tete Home
 title: Tete Home
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: https//www.tetehome.com
+  Tete Home is a blog about home decor, design and DIY ethics
+url: https://www.tetehome.com
 twitter_username: tetehome
 default_img: /assets/images/seo.jpg
 social:
