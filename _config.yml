@@ -13,15 +13,15 @@ twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/tetehome
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/tetehome
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/tetehome
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/tetehome
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://codepen.io/tetehome
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
