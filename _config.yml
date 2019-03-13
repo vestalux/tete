@@ -35,14 +35,16 @@ mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66
 mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
-author:
-  - name: Istvan
-    bio: Maker.
-    url: http://tetehome.com
+  Istvan:
+    name: Istvan Lechner
+    email: toby@tosbourn.com
+    url: http://www.twitter.com/monoport
+    bio: Lorem ipsum
     
-  - name: Eva
-    bio: Cabin crew with an eye for desing
-    url: http://tetehome.com
+  Eva:
+    name: Eva Lechner
+    url: https://www.twitter.com/kittylainey
+    bio: Lorem ipsum
 
 # Pagination settings
 pagination:
