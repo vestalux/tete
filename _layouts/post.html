@@ -40,8 +40,18 @@ layout: default
       <div class="section-padding">
         <div class="grid-small">
           {% assign author = site[page.author] %}
-            <span class="post__author">Posted by <a href="{{ author['url'] }}" title="More By {{ page.author }}">{{ page.author }}</a></span>
-         <p class="post__bio">{{ author["bio"] }}</p>
+          
+          {% if author %}
+<span class="post__author">Posted by <a href="{{ author.url }}" title="More By {{ author.name }}">{{ author.name }}</a></span>
+<p class="post__bio">{{ author.bio}}</p>
+          {% else %}
+  <span>
+   <span class="post__author">Posted by Istvan Lechner</span>
+  </span>
+{% endif %}
+          
+          
+
            
           
         </div>
