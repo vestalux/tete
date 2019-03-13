@@ -39,7 +39,7 @@ layout: default
 
       <div class="section-padding">
         <div class="grid-small">
-          {% assign author = site[page.author] %}
+          {% assign author = site.[page.author] %}
           
           {% if author %}
 <span class="post__author">Posted by <a href="{{ author.url }}" title="More By {{ author.name }}">{{ author.name }}</a></span>
