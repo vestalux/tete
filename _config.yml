@@ -35,16 +35,16 @@ mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66
 mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
-  Istvan:
-    name: Istvan Lechner
-    email: toby@tosbourn.com
-    url: http://www.twitter.com/monoport
-    bio: Lorem ipsum
+Istvan:
+ name: Istvan Lechner
+ email: toby@tosbourn.com
+ url: http://www.twitter.com/monoport
+ bio: Lorem ipsum
     
-  Eva:
-    name: Eva Lechner
-    url: https://www.twitter.com/kittylainey
-    bio: Lorem ipsum
+Eva:
+ name: Eva Lechner
+ url: https://www.twitter.com/kittylainey
+ bio: Lorem ipsum
 
 # Pagination settings
 pagination:
